@@ -1,1 +1,1 @@
- ssh-keygen -t rsa -C “youremail@example.com”"sss"
+ ssh-keygen -t rsa -C “youremail@example.com”"sss""aaaa"
